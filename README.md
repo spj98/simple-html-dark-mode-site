@@ -1,3 +1,3 @@
-# [darkmode](https://stevenpjohnso.github.io/darkmode/)
+# [darkmode](https://spj98.github.io/darkmode/)
 A Dark Mode Website Demo
 
